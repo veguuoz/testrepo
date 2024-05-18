@@ -1,0 +1,9 @@
+/* Version 4 */
+
+.hide {
+	display: none;
+}
+
+.show {
+	display: block;
+}
